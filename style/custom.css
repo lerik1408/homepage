@@ -13,3 +13,13 @@ object {
   align-items: center;
   justify-content: space-around;
 }
+.languages_wrap {
+  display: flex;
+  justify-content: space-between;
+}
+.languages_wrap>p {
+  color: burlywood
+}
+.item {
+  padding-bottom: 10px;
+}

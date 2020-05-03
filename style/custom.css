@@ -1,0 +1,15 @@
+.intro {
+  font-size: 20px;
+}
+.avatar-wrapper {
+  margin-right: 10px;
+}
+object {
+  border-radius: 50%
+}
+.custom_svg {
+  width: 110%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
